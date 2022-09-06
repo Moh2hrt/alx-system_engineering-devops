@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-egrep -A 3 root /etc/passwd
-=======
-egrep-A 3 'root' /etc/passwd
->>>>>>> 14d88628cbbbe0b09da31f41f86609c0c18285f9
+egrep  -A 3 'root' /etc/passwd
